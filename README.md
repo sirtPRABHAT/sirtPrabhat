@@ -38,8 +38,8 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 📈 **My GitHub Stats:**
 
 <p>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sirtPRABHAT&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirtPRABHAT&show_icons=true&hide_border=true&layout=compact&langs_count=8"/> 
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sirtPRABHAT&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirtPRABHAT&show_icons=true&hide_border=true&layout=compact&langs_count=10&count_private=true"/> 
   
   
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sirtPRABHAT&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
